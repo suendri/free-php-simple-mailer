@@ -1,0 +1,13 @@
+{
+    "name": "suendri/free-php-simple-mailer",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Suendri",
+            "email": "mr.suendri@gmail.com"
+        }
+    ]
+}
