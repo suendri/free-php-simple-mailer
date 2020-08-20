@@ -22,8 +22,8 @@ class Send
 			$mail->SMTPSecure = 'tls'; 				// ssl/tls
 			$mail->Host       = 'smtp.mailtrap.io'; // hostname
 			$mail->Port       = '2525';				// port
-			$mail->Username   = 'a897d9daab0df3';			// username email
-			$mail->Password   = 'e7a152852e5a2c';			// passrword email
+			$mail->Username   = '<isi>';			// username email
+			$mail->Password   = '<isi>';			// passrword email
 
 			//Recipients
 			$mail->setFrom('suendri@gosoftware.web.id', 'Mailer Gosoftware Media');
